@@ -1,4 +1,4 @@
-# 🎙 AI Interview Assistant
+# 🎙 AI Mock Interview Coach
 
 AI Interview Assistant is a Streamlit-based web application that helps users practice job interviews using AI-powered feedback. It generates interview questions based on a job description, allows users to respond via speech, transcribes their answers, and provides AI-driven analysis and feedback.
 
