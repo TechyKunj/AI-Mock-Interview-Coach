@@ -1,0 +1,6 @@
+langchain-groq
+langgraph
+typing-extensions
+speechrecognition
+streamlit
+langchain
